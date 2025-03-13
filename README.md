@@ -23,7 +23,7 @@ A fun Python terminal-based game where you guess who has more followers! Inspire
 ## 🚀 Installation & Running the Game  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/higher-lower-game.git
+   git clone https://github.com/NomadBeetle/Higher-Lower-Game.git
    cd higher-lower-game
    ```
 2. Run the Python script:  
@@ -41,7 +41,3 @@ A fun Python terminal-based game where you guess who has more followers! Inspire
 - Add a **GUI version** using Tkinter.  
 - Create an **online version** using Flask/Django.  
 - Implement **a leaderboard** to track high scores.  
-
-## 📜 License  
-This project is open-source. Feel free to use and improve it!
-
